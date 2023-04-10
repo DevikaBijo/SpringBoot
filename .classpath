@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="collegedetails/src/main/java"/>
+	<classpathentry kind="src" path="collegedetails/src/test/java"/>
+	<classpathentry kind="src" path="employeedetails/src/main/java"/>
+	<classpathentry kind="src" path="employeedetails/src/test/java"/>
+	<classpathentry kind="src" path="EmployeeRegistration/src/main/java"/>
+	<classpathentry kind="src" path="EmployeeRegistration/src/test/java"/>
+	<classpathentry kind="src" path="EmployeeSecurity/src/main/java"/>
+	<classpathentry kind="src" path="EmployeeSecurity/src/test/java"/>
+	<classpathentry kind="src" path="jpamanytomany/src/main/java"/>
+	<classpathentry kind="src" path="jpamanytomany/src/test/java"/>
+	<classpathentry kind="src" path="validation-exception-handling-main/src/main/java"/>
+	<classpathentry kind="src" path="validation-exception-handling-main/src/test/java"/>
+	<classpathentry kind="lib" path="collegedetails/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="employeedetails/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="EmployeeRegistration/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="EmployeeSecurity/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="jpamanytomany/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="EmployeeRegistration/target/classes"/>
+</classpath>
